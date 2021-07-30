@@ -1,0 +1,77 @@
+#color-dot{
+    font-family: 'Roboto', sans-serif;
+    color:  rgb(255, 255, 255);
+    font-size: 30px;
+    
+}
+#bg-change{
+    background-color: #264653;
+    padding: 80px;
+}
+#others{
+    margin-left: 190%;
+    font-family: 'Roboto', sans-serif;
+}
+#button-size{
+    margin-left: 10px;
+}
+.fashion-btn-shop{
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    padding: 8px 50px;
+    border: none;
+    background-color: #E76F51;
+}
+.fashion-btn-shop-2{
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    padding: 5px 5px;
+    border: none;
+    background-color: #E76F51;
+}
+.text-style{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 15px;
+}
+.fashion-bn{
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    padding: 5px 10px;
+    border: none;
+    background-color: #E76F51;
+}
+.text-font{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 15px;
+}
+#img-width{
+    width: 200px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+#images{
+    text-align: center;
+}
+.star-color-1{
+    color:#E76F51;
+}
+.star-color{
+    color:#E76F51;
+    margin-bottom: 14px;
+}
+#extra{
+    color: blue;
+}
+#banker{
+    color: rgb(17, 16, 16);
+    font-family: 'Roboto', sans-serif;
+}
+.colour-ft{
+    color: #E76F51;
+}
+#happy-color{
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
